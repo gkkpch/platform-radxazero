@@ -11,5 +11,5 @@ Platform files are created using the armbian build system for kernel, u-boot, ar
 20230607||Added Radxa Zero2
 20230614||Modified radxa zero and zero2 dts to enable SPDIF
 |||Created corresponding audio routing settings with a modified,  board-specific asound.state
-
+|20240409|gkkpch|armbianEnv.txt: changed 'bootconfig' to 'uuidconfig'
 
